@@ -6,3 +6,11 @@ layout: home
 ---
 # Old-hat Keyboards: Clicks Without Compromise
 
+  
+  Total number of keyboards: 
+    {% assign keyboard_count = site.data.keyboards | size %}
+    {{ keyboard_count }}
+
+Total number of switches: 
+{% assign switch_count = site.data.switches | size %}
+    {{ switch_count }}
