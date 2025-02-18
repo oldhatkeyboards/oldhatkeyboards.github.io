@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-Old Hat Keyboards
-email: "team@oldhatkeyboards.com"
+title: Old Hat Keyboards
+email: team@oldhatkeyboards.com
 description: >- # this means to ignore newlines until "baseurl:"
   Old Hat Keyboards aims to collect as many 87- and 104+-key mechanical keyboards as possible. We also have info on a growing number of switches!
 baseurl: "" # the subpath of your site, e.g. /blog
