@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+Title: Clicks Without Compromise
 ---
-# Old-hat Keyboards: Clicks Without Compromise
+# Clicks Without Compromise
 
   
   Total number of keyboards: 
