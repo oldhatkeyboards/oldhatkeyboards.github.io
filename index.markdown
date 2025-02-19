@@ -9,10 +9,10 @@ title: Home
 # Old Hat Keyboards: Clicks Without Compromise
 
   
-  <div aria-role="region" aria-label="database stats">Total number of keyboards: 
+  <div role="region" aria-label="database stats">
+  Total number of keyboards: 
     {% assign keyboard_count = site.data.keyboards | size %}
-    {{ keyboard_count }}
-
+    {{ keyboard_count }}<br>
 Total number of switches: 
 {% assign switch_count = site.data.switches | size %}
     {{ switch_count }}
